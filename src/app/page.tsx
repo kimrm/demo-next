@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   const title = "Hello, World from demo site!";
   return (
